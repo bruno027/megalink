@@ -1,0 +1,22 @@
+.noMargin {
+    margin-left: 0;
+    margin-right:0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.conteudodata{
+    margin-top: 18px;
+    display: flex;
+    flex-direction: column;
+    
+    padding: 0 8px;
+    margin: 0 auto;
+}
+
+.s1{
+    background-color: #98FB98;
+}
+.s2{
+    background-color: #FA8072;
+}
